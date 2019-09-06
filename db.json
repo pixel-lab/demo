@@ -8,7 +8,7 @@
     { "id": 1, "name": "Masala", "size":"large" },
     { "id": 2, "name": "Classic" ,"size":"large" }
   ],
-  "currentmovies": 
-   { "id": 1, "name": "Shawshank Redemption", "seats": "B16, B17" }
+  "currentmovies": [
+   { "id": 1, "name": "Shawshank Redemption", "seats": "B16, B17" }]
   
 }
