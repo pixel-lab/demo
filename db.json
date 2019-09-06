@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "ice-creams": [
+    { "id": 1, "name": "black berry" ,"size":"large" },
+    { "id": 2, "name": "vanilla","size":"regular" },
+    { "id": 3, "name": "two-in-one","size":"small" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "popcorns": [
+    { "id": 1, "body": "Masala", ,"size":"large" },
+    { "id": 2, "body": "Classic", ,"size":"large" }
   ],
-  "profile": {
-    "name": "typicode"
+  "currentmovies": {
+   { "id": 1, "body": "Shawshank Redemption", "seats": "B16, B17" }
   }
 }
