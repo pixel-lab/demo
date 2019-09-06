@@ -5,10 +5,10 @@
     { "id": 3, "name": "two-in-one","size":"small" }
   ],
   "popcorns": [
-    { "id": 1, "body": "Masala", ,"size":"large" },
-    { "id": 2, "body": "Classic", ,"size":"large" }
+    { "id": 1, "body": "Masala", "size":"large" },
+    { "id": 2, "body": "Classic" ,"size":"large" }
   ],
-  "currentmovies": {
+  "currentmovies": 
    { "id": 1, "body": "Shawshank Redemption", "seats": "B16, B17" }
-  }
+  
 }
